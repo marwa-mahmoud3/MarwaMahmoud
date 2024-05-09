@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marwa Mahmoud</h1>
+<h1 align="center">Hi 👋, I'm Marwa Mahmoud Mohamed</h1>
 <p>
   <div align="center">Senior Full Stack .Net Developer | ITI Graduate</div>
   <div align="center">
