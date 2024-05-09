@@ -22,6 +22,6 @@ requirements and deadlines. Continuously.</p>
 <img width="60" height="60" src="https://github.com/marwa-mahmoud3/marwa-mahmoud3/assets/58340861/d3edff6f-9b39-4290-80c4-03dbfda68a34">
 <img width="60" height="60" src="https://github.com/marwa-mahmoud3/marwa-mahmoud3/assets/58340861/08075585-46e2-4b33-955b-57558d729e5d">
 <img height="60" src="https://github.com/marwa-mahmoud3/marwa-mahmoud3/assets/58340861/63e61f45-8e6f-4461-bcae-299c22abf171">
-<img width="60" height="60" src="https://github.com/marwa-mahmoud3/marwa-mahmoud3/assets/58340861/ca043019-e2c2-4240-a6d0-078d5802f988)">
+<img height="60" src="https://github.com/marwa-mahmoud3/marwa-mahmoud3/assets/58340861/ca043019-e2c2-4240-a6d0-078d5802f988)">
 <img height="60" src="https://github.com/marwa-mahmoud3/marwa-mahmoud3/assets/58340861/c8c0e5a7-68f3-4feb-90b4-0230aa9e5f6d)">
 
